@@ -1,7 +1,7 @@
 
 name: VCB Technologies
 type: theme
-description: 'This is a testing theme made for Drupal 8.x.'
+description: 'This is a testing theme made for our website in Drupal 8.x.'
 package: Core
 version: '8.6.5'
 core: '8.x'
